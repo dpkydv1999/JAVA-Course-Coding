@@ -13,6 +13,9 @@ class Calc{
         double res1 = n1+n2;
         return res1;
     }
+    public int add(int[] nums) {
+        return 0;
+    }
 
 }
 
