@@ -1,3 +1,4 @@
+//Types of String 
 public class TypesOfString{
     public static void main(String[] args) {
         //1. Immutable String
@@ -10,6 +11,6 @@ public class TypesOfString{
         StringBuilder brand1 = new StringBuilder("deepak");
         System.out.println(brand1);
         brand1.append("Kathmandu");
-        System.out.println(brand1);
+        System.out.println(brand1); //Changes occurred in String object
     }
 }
