@@ -27,7 +27,7 @@ public class ShadowingProblem {
         obj1.setData1(18);
         obj.setData2("Deepak");
         obj1.setData2("ydv");
-        // obj1.setData2();
+    
         obj.show();
         obj1.show();
 
