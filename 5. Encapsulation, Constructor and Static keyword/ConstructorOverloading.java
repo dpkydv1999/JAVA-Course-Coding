@@ -3,11 +3,13 @@ class Book1{
     private int page;
 
     public Book1(){
+        this("shyam", 28);
         System.out.println("Default constructor is called. ");
         name = "Deepak";
         page = 100;
     }
     public Book1(String name){
+        this(); //this keyword
         this.name = name;
         page = 300;
     }
