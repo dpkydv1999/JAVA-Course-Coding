@@ -1,3 +1,5 @@
+//Static Method Vs Non Static Method
+
 import java.util.Arrays;
 
 class Method1{
