@@ -1,11 +1,13 @@
 class Member{
+    //static variables
     static int a;
     static int b;
 
+    //instance variables
     int m;
     int n;
 
-    static{
+    static{ // static initialization
         System.out.println("Control in static block:");
         a= 5;
         b= 8;
@@ -18,11 +20,13 @@ class Member{
         n= 12;
     }
 
+    //static methods
     static void display(){
         System.out.println("Value of static var a: " +a);
         System.out.println("Value of static var b: " +b);
     }
 
+    //Non-static methods
     void display1(){
         System.out.println("Value of non static variable m: " +m);
         System.out.println("Value of non static variable n: " +n);
