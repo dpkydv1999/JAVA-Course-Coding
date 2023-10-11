@@ -1,3 +1,6 @@
+//About StringBuffer / StringBuilder and its capacity 
+//Also about some of inbuilt methods of String
+
 public class MoreOnMutableString{
     public static void main(String[] args) {
         // StringBuffer sb = new StringBuffer(); 
