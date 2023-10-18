@@ -1,4 +1,4 @@
-package Inheritance;
+
 
 class Demo1{
     void disp(){

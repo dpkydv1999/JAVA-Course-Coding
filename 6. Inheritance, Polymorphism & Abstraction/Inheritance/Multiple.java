@@ -1,6 +1,6 @@
 //Multiple Inheritance
 //Java does not allow Multiple Inheritance
-package Inheritance;
+
 
 class Parent1 //extends Object
 {

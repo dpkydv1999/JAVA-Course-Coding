@@ -1,5 +1,5 @@
 //Types of Methods in Inheritance
-package Inheritance;
+
 
 class AeroPlane
 {

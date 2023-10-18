@@ -1,6 +1,6 @@
 //Single-Level Inheritance
 
-package Inheritance;
+
 class Animal{
 
     void display(){

@@ -1,6 +1,6 @@
 //Hierarchial Inheritance
 
-package Inheritance;
+
 
 class Animal{
     void display(){

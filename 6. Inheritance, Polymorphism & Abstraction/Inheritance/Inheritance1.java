@@ -1,7 +1,7 @@
 //Introduction to Inheritance
 //Private members of a class will not take part in inheritance
 //constructor will also not take part in inheritance but executed by super() which calls constructor of parent class 
-package Inheritance;
+
 
 class Human //super class or parent class or base class
 {
