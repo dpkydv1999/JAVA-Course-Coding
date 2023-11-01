@@ -1,4 +1,4 @@
-//About Exception and how to handle it by using try and catch  
+//About Exception and how to handle it by using try and catch block  
 public class TryCatch1 {
     public static void main(String[] args) {
         int num1 = 10;
@@ -11,7 +11,7 @@ public class TryCatch1 {
             result = num1/num2;
             System.out.println("in try block");
         }
-        catch(Exception e)
+        catch(ArithmeticException e)
         {
             System.out.println("Something went wrong.." +e);
         }
