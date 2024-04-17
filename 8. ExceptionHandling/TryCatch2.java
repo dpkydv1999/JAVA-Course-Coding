@@ -9,9 +9,7 @@ public class TryCatch2 {
 
         try
         {
-            System.out.println("in try block");
-            result = num1/name.length();
-            
+            result = num1/name.length();  
             System.out.println(values[7]);
         }
         catch(ArithmeticException e)
