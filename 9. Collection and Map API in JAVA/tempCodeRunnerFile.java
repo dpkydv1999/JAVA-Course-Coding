@@ -1,4 +1,6 @@
- // ts.add(25); 
-        // System.out.println(ts); //duplicates are not valid
-        
-        // System.out.println(ts.higher(3));
+ Iterator itr=arr.iterator();
+    //    while (itr.hasNext()) 
+    //    {
+    //     // Integer i =(Integer) itr.next();
+    //     System.out.println(itr.next());
+    //    }
